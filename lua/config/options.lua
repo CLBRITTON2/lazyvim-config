@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.opt.winbar = "%=%m %f"
 vim.g.root_spec = { "cwd" }
+vim.opt.title = true
